@@ -11,7 +11,7 @@
 
 
 ## Description
-* Social network api using Express/Mongo/Mongoose
+Backend setup for a social network api using Express/Mongo/Mongoose. This project creates a RESTful API with CRUD routes for users, thoughts by the users and reactions on those thoughts by other users.
 
 ## Installation Instructions
 * npm install
@@ -29,7 +29,7 @@
 W Rowland => find me on [GitHub](https://github.com/rolanduwxcc) or email me at rolanduwxcc@gmail.com
   
 ## Screenshots & Video How To
-[YouTube Walk Through](https://youtu.be/ybcRZ6qxLXo)<br>
+Watch this [YouTube Walk Through Video](https://youtu.be/ybcRZ6qxLXo) for a demo on the API routes.<br>
 
 ## License & Copyrights
 Licensed under the [MIT License]('./LICENSE')
